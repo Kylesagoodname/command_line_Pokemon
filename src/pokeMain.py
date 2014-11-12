@@ -37,6 +37,7 @@ def main():
         menu(trainer)
     elif user_input == 2:
         preBattle(trainer, rival)
+        print "This is a change"
          
 
 #General menu for gameplay and in battle
